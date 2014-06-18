@@ -12,4 +12,9 @@ python -m SimpleHTTPServer
 ```
 
 
-In your browser go to 0.0.0.0:8000 and navigate to the demo folder you can test
+In your browser go to:
+
+```
+0.0.0.0:8000
+```
+Navigate to the demo folder you want to test
